@@ -25,6 +25,9 @@ PRODUCT_PACKAGES += \
     Manrope-VF.ttf \
     OppoSans-En-Regular.ttf \
     Recursive-VF.ttf \
+    GoogleSans-Regular.ttf \
+    GoogleSans-Italic.ttf \
+    GoogleSansFlex-Regular.ttf \
     OnePlusSans-Black.ttf \
     OnePlusSans-Bold.ttf \
     OnePlusSans-BlackItalic.ttf \
