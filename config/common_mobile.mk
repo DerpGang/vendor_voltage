@@ -3,9 +3,7 @@ $(call inherit-product, vendor/voltage/config/common.mk)
 
 # Charger
 PRODUCT_PACKAGES += \
-    charger_res_images \
-    product_charger_res_images \
-    product_charger_res_images_vendor
+    vendor_charger_res_images
 
 # Media
 PRODUCT_SYSTEM_DEFAULT_PROPERTIES += \
